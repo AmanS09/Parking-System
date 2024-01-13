@@ -26,7 +26,7 @@ It streamlines the management process, reducing errors and enhancing operational
 
 ## Screenshots
 * HOME PAGE(containing login and signup pages)
-  ![Screenshot (1247)](https://github.com/AmanS09/Parking-System/assets/123250285/c24faeb7-ccca-4582-9451-275eb7690055)
+  ![4](https://github.com/AmanS09/Parking-System/assets/123250285/41b9b723-d4f1-48ca-81d0-a097f8d13e87)
 
 * SIGN UP PAGE
   ![1](https://github.com/AmanS09/Parking-System/assets/123250285/4cb3ffab-4658-4638-beca-ebf77734ba4f)
